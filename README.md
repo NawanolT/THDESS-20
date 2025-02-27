@@ -1,6 +1,5 @@
 # THDESS-20 Thai Dessert Image Dataset
 Dataset of Thai dessert images for the food recognition task
-https://github.com/NawanolT/THDESS-20
 
 THDESS-20 is a dataset of Thai dessert images for the food recognition task. It contains 5,242 images organized into 20 classes. Each image has a single label corresponding to the dessert's name. The images were taken by users and manually labeled by domain experts.
 
